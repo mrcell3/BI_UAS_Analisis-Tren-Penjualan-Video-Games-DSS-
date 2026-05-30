@@ -5,7 +5,7 @@ Anggota Kelompok:
 
 # Cupcorn Entertainment - Game Sales (DSS)
 
-Aplikasi Sistem Pendukung Keputusan berbasis web yang dirancang khusus untuk menganalisis dan memvisualisasikan data historis penjualan video game global (1980–2020). 
+Aplikasi Sistem Pendukung Keputusan berbasis web yang dirancang khusus untuk menganalisis dan memvisualisasikan data historis penjualan video game global. 
 Sistem ini menerapkan sistem Business Intelligence dan Decision Support System (DSS) untuk membantu perusahaan dalam memahami tren pasar, perilaku pemain, serta performa penjualan game berdasarkan data historis.
 
 ---
