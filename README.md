@@ -19,29 +19,29 @@ Menu ini digunakan untuk melihat segmentasi pasar game secara makro berdasarkan 
 
 **Status DSS yang Dihasilkan:**
 
-   **🔴 Niche Market:** Status otomatis ketika sebuah genre memiliki total volume penjualan yang sangat terbatas pada rentang tahun terpilih (di bawah batas ambang komersial minimum 50M sales).
+     🔴 Niche Market: Status otomatis ketika sebuah genre memiliki total volume penjualan yang sangat terbatas pada rentang tahun terpilih (di bawah batas ambang komersial minimum 50M sales).
    
-   **🟡 Declining:** Mendeteksi adanya indikasi penurunan performa secara spesifik dengan membandingkan volume penjualan tahun final (*last year*) terhadap satu tahun sebelumnya (*previous year*) pada filter aktif.
+     🟡 Declining: Mendeteksi adanya indikasi penurunan performa secara spesifik dengan membandingkan volume penjualan tahun final (*last year*) terhadap satu tahun sebelumnya (*previous year*) pada filter aktif.
    
-   **🟢 High Potential:** Kategori untuk genre-genre utama yang mempertahankan volume penjualan tinggi serta konsisten menjaga stabilitas performa komersialnya di berbagai wilayah global.
+     🟢 High Potential: Kategori untuk genre-genre utama yang mempertahankan volume penjualan tinggi serta konsisten menjaga stabilitas performa komersialnya di berbagai wilayah global.
 
 ### 2. Platform Analysis (Analisis performa platform game)
 Menu ini berfokus pada ekosistem perangkat keras atau konsol game. Gunanya untuk mengetahui platform mana yang paling menguntungkan untuk merilis sebuah game pada periode tahun terpilih.
 
 **Status DSS yang Dihasilkan:**
 
-   **🟢 Stable Market:** Platform yang mendominasi pasar pada era terpilih dengan angka penjualan di atas rata-rata industri serta memiliki basis pengguna yang besar.
+     🟢 Stable Market: Platform yang mendominasi pasar pada era terpilih dengan angka penjualan di atas rata-rata industri serta memiliki basis pengguna yang besar.
    
-   **🟡 Casual Market:** Platform dengan volume penjualan di bawah rata-rata industri pada era tersebut, cenderung bergerak stabil pada segmentasi game kasual/keluarga.
+     🟡 Casual Market: Platform dengan volume penjualan di bawah rata-rata industri pada era tersebut, cenderung bergerak stabil pada segmentasi game kasual/keluarga.
 
 ### 3. Regional Analysis (Analisis penjualan berdasarkan wilayah)
 Menu ini memetakan performa penjualan berdasarkan wilayah geografis dunia (North America, Europe, Japan, dan negara lainnya). Manajer menggunakannya untuk menentukan target pasar utama atau wilayah distribusi game.
 
 **Status DSS yang Dihasilkan:**
 
-   **🟢 Major Market:** Wilayah kontributor utama yang menyumbang $\ge$ 25% dari total penjualan dunia pada era aktif.
+     🟢 Major Market: Wilayah kontributor utama yang menyumbang $\ge$ 25% dari total penjualan dunia pada era aktif.
    
-   **🟡 Specialized Market:** Wilayah dengan pangsa pasar lebih kecil ($<$ 25%), namun memiliki preferensi platform dan genre yang sangat unik (contohnya pasar Jepang).
+     🟡 Specialized Market: Wilayah dengan pangsa pasar lebih kecil ($<$ 25%), namun memiliki preferensi platform dan genre yang sangat unik (contohnya pasar Jepang).
 
 ### 4. Publisher Analysis (Analisis performa publisher)
 Menyediakan fitur *Competitor Intelligence* untuk melakukan analisis kompetitor terhadap perusahaan-perusahaan penerbit game lain di industri dengan melacak performa volume penjualan dari Top 10 Publisher di industri game.
@@ -52,13 +52,13 @@ Menganalisis hubungan sebab-akibat (korelasi) antara tingkat kepuasan pemain (*R
 
 **Status DSS yang Dihasilkan:**
 
-   **🟢 High Rating High Sales:** Genre yang memiliki kualitas rating tinggi ($\ge$ 3.65) dan sukses besar di pasar (Performa produk sangat optimal).
+     🟢 High Rating High Sales: Genre yang memiliki kualitas rating tinggi ($\ge$ 3.65) dan sukses besar di pasar (Performa produk sangat optimal).
    
-   **🟡 High Rating Low Sales:** Game berkualitas tinggi dan disukai konsumen, tetapi kurang optimal dalam komersial/volume penjualan pada era tersebut.
+     🟡 High Rating Low Sales: Game berkualitas tinggi dan disukai konsumen, tetapi kurang optimal dalam komersial/volume penjualan pada era tersebut.
    
-   **🔵 Low Rating High Sales:** Rating genre cenderung biasa saja/rendah (< 3.65), namun performa volume penjualannya di pasar sangat tinggi (Produk tetap laris karena faktor pasar).
+     🔵 Low Rating High Sales: Rating genre cenderung biasa saja/rendah (< 3.65), namun performa volume penjualannya di pasar sangat tinggi (Produk tetap laris karena faktor pasar).
    
-   **🔴 Low Rating Low Sales:** Genre dengan kualitas rating maupun tingkat penjualan yang berada di bawah standar performa industri pada era tersebut.
+     🔴 Low Rating Low Sales: Genre dengan kualitas rating maupun tingkat penjualan yang berada di bawah standar performa industri pada era tersebut.
 
 ---
 
